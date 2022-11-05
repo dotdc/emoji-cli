@@ -4,4 +4,4 @@
 
 ## Description
 
-Just a dummy app to play with Rust.
+Just a dummy emoji cli to play with Rust.
